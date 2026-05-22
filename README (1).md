@@ -106,7 +106,7 @@ One major issue I faced was food collision not working correctly due to grid ali
 
 ## Author
 
-GAURAV BHARDWAJ
+SARA MANOCHA
 
 ---
 
