@@ -41,11 +41,8 @@ Key	Action
 →	Move Right
 C	Play Again
 Q	Quit Game
-Project Preview
 
-Add your screenshots here:
 
-![Game Screenshot](screenshot.png)
 What I Learned
 
 While building this project, I learned:
